@@ -5,3 +5,5 @@ It then runs a classfication algorithm using Linear SVC model from SciKit Learn 
 Once the model is trained we can use it for classification of test data. The program has been tested on 2000 rows of data and achieves 63-64% accuracy. accuracy is measured using 10 fold cross validation method.
 The data used here is UCI dataset of single nucleotide polymorphism (SNP) genotype data 
 containing 29623 SNPs (total features).
+The training dataset can be accessed via this link :https://web.njit.edu/~usman/courses/cs675_fall17/traindata.gz
+For test data: https://web.njit.edu/~usman/courses/cs675_fall17/testdata.gz
